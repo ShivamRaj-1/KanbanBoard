@@ -1,7 +1,7 @@
 *******
-Deployed link :- https://kanbanboard-tg5u.onrender.com
+Deployed link :- 
 
-Github link :- https://github.com/Janamjay/kanbanBoard/edit/main
+Github link :- 
 
 ********
 
@@ -32,7 +32,7 @@ completedList: {
 
 }
 Kanban Group React JS Project:-
-This is a collaborative Kanban board project developed by Apoorv, Neha, Janamjay, and Robin. The purpose of this project is to create a digital Kanban board using React JS and implement drag-and-drop functionality for managing tasks and workflows.
+This is a collaborative Kanban board project developed by Shivam, Utkarsh, Abhishek, and Akhilesh. The purpose of this project is to create a digital Kanban board using React JS and implement drag-and-drop functionality for managing tasks and workflows.
 
 
 Table of Contents:-
@@ -76,20 +76,12 @@ Collaborate with your team members by sharing the board and assigning tasks.
 
 
 Contributors:-
-Apoorv Verma,
-Neha Rajbhar,
-Janamjay Kumar and 
-Robin Sharma
+Shivam Raj,
+Utkarsh Sharma,
+Abhishek Bhaskar and 
+Akhilesh Sharma
 
 
 
 
 We appreciate all contributions to this project, whether it's through bug reports, feature suggestions, or pull requests.
-
-
-
-
-
-
-
-
