@@ -1,5 +1,5 @@
 *******
-Deployed link :- 
+Deployed link :- https://kanban-bord.netlify.app/
 
 Github link :- https://github.com/ShivamRaj-1/KanbanBoard/tree/main
 
