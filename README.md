@@ -1,7 +1,7 @@
 *******
 Deployed link :- 
 
-Github link :- 
+Github link :- https://github.com/ShivamRaj-1/KanbanBoard/tree/main
 
 ********
 
